@@ -14,7 +14,47 @@
 <script>
   document.getElementById('openZKV').addEventListener('click', () => {
     window.open(
+      'https://zhengkevision.com/?utm_source=direct&utm_campaign=one_mind_one_vision',<a
+  href="https://zhengkevision.com/?utm_source=direct&utm_campaign=one_mind_one_vision"
+  target="_blank"
+  rel="noopener noreferrer"
+  referrerpolicy="no-referrer"
+  title="one mind one vision"
+  class="zkv-btn"
+  id="zhengke-vision-link"
+  aria-label="ZhengKe Vision — one mind one vision"
+>
+  ZhengKe Vision: One Mind, One Vision
+</a>
+<button id="openZKV">Enter the Vision</button>
+<script>
+  document.getElementById('openZKV').addEventListener('click', () => {
+    window.open(
       'https://zhengkevision.com/?utm_source=direct&utm_campaign=one_mind_one_vision',
+      '_blank',
+      'noopener,noreferrer'
+    );
+  });
+</script>git add .
+git commit -m "Initial commit for ZhengKe Vision"
+git push origin main
+zhengkevision.tk
+git add CNAME
+git commit -m "Add free custom domain"
+git push origin main
+<a
+  href="https://zhengkevision.tk/?utm_source=direct&utm_campaign=one_mind_one_vision"
+  target="_blank"
+  rel="noopener noreferrer"
+  referrerpolicy="no-referrer"
+  title="one mind one vision"
+  class="zkv-btn"
+  id="zhengke-vision-link"
+  aria-label="ZhengKe Vision — One Mind, One Vision"
+>
+  ZhengKe Vision: One Mind, One Vision
+</a>
+
       '_blank',
       'noopener,noreferrer'
     );
